@@ -4,7 +4,7 @@ per the best method, its every 7-10 minutes, rest eyes for 10 seconds, this tkin
 ## Installation
 
 ```bash
-pip install git+https://github.com/ZackaryW/micro-pomo.git
+pip install git+https://github.com/zackaryuu/micro-pomo.git
 ```
 
 ## Usage
